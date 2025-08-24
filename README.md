@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">Future Tech Founder | Aspiring Full-Stack Developer | Dreamer & Builder </h3>
+<h3 align="center">Aspiring Full-Stack Developer | Dreamer & Builder </h3>
 <h4 align="center">Still new in GitHub</h4>
 
 ---
