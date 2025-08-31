@@ -1,8 +1,7 @@
 <!-- Profile Banner -->
 
-<h1 align="center">Hi 👋, I'm Andrew</h1>
+<h1 align="center">Hi 👋, I'm DrewIt</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Dreamer & Builder </h3>
-<h4 align="center">Still new in GitHub</h4>
 
 ---
 
@@ -20,21 +19,6 @@
 - Preparing for A Level Exams (then full coding grind)
 
 ---
-
-### 🔍 Looking For
-- Mentors who can guide me in front-end & modern web dev
-- Open-source projects to contribute to
-- Feedback and advice from experienced developers
-
-<br><br>
-
-<p align="center">
-  💬 “The best way to learn is to build and share.” <br>
-  If you have advice, resources, or opportunities, I’m all ears!
-</p>
-
-<br><br>
-
 ### 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" /><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/ChatGPT-Logo-2022.svg" alt="ChatGPT" width="40" height="40" />
@@ -65,7 +49,7 @@
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/DrewIt273"><img src="https://img.shields.io/badge/GitHub-DrewIt273-black?style=for-the-badge&logo=github"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-Coming%20Soon-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:instantdrewIt@gmail.com"><img src="https://img.shields.io/badge/Email-Coming%20Soon-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
