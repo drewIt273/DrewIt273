@@ -15,7 +15,7 @@
 ---
 ### 🚀 Current Focus
 - Learning HTML, CSS, and JavaScript deeply but alone
-- Designing 5 unique UI templates from my ideas (1/5 done ✅)
+- Developing a web app to increase my skills (below, the Ether web app repo)
 - Preparing for A Level Exams (then full coding grind)
 
 ---
