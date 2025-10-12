@@ -34,11 +34,6 @@
 
 ---
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrewIt273&theme=react-dark" />
-</p>
-
 ### Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewIt273&layout=compact&theme=tokyonight" />
