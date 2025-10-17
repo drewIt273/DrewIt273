@@ -8,36 +8,33 @@
 ### 🚀 About Me
 - 💻 Passionate about **HTML, CSS, JavaScript** 
 - 🧠 Passionate about UI/UX, clean code, and building projects that solve real problems.
-- 🎯 Goal: Build beautiful, functional UIs and master full-stack development
+- 🎯 Goal: Build beautiful, functional UIs and master full-stack development.
 - 🌍 Based in Cameroon, aiming to learn from developers worldwide.
 - 🛠 Future Inovator
 
 ---
 ### 🚀 Current Focus
-- Learning HTML, CSS, and JavaScript deeply but alone
+- Learning HTML, CSS, and JavaScript
 - Developing a web app to increase my skills (below, the Ether web app repo)
 - Preparing for A Level Exams (then full coding grind)
 
 ---
 ### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" /><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/ChatGPT-Logo-2022.svg" alt="ChatGPT" width="40" height="40" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+</div>
 
 -----
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrewIt273&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+<div style="display: flex; gap: 10px; width: 100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrewIt273&show_icons=true&theme=tokyonight" alt="GitHub status" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrewIt273&theme=tokyonight" alt="GitHub streak" />
-</p>
+</div>
 
----
-
-### Most Used Languages
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewIt273&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
