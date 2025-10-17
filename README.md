@@ -24,12 +24,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 </div>
 
------
+---
 
 ### 📊 GitHub Stats
-<div style="display: flex; gap: 10px; width: 100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrewIt273&show_icons=true&theme=tokyonight" alt="GitHub status" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrewIt273&theme=tokyonight" alt="GitHub streak" />
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrewIt273&show_icons=true&theme=tokyonight" alt="GitHub status" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrewIt273&theme=tokyonight" alt="GitHub streak" width="50%"/>
 </div>
 
 <div align="center">
