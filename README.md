@@ -27,8 +27,8 @@
 ---
 
 ### 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=DrewIt273&show_icons=true&theme=tokyonight" alt="GitHub status" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrewIt273&theme=tokyonight" alt="GitHub streak" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DrewIt273&show_icons=true&theme=tokyonight" alt="GitHub status" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrewIt273&theme=tokyonight" alt="GitHub streak" width="70%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewIt273&layout=compact&theme=tokyonight" />
 
 ---
@@ -36,7 +36,7 @@
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/DrewIt273"><img src="https://img.shields.io/badge/GitHub-DrewIt273-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto:instantdrewIt@gmail.com"><img src="https://img.shields.io/badge/Email-Coming%20Soon-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:instantdrewit@gmail.com"><img src="https://img.shields.io/badge/Email-Coming%20Soon-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
