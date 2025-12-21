@@ -15,7 +15,7 @@
 ---
 ### 🚀 Current Focus
 - Learning HTML, CSS, and JavaScript
-- Developing a web app to increase my skills (below, the Ether web app repo)
+- Developing a web app to increase my skills
 - Preparing for A Level Exams (then full coding grind)
 
 ---
