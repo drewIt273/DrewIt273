@@ -28,7 +28,7 @@
 ### 📊 GitHub Stats
   <img src="https://readme-stats-chi-red.vercel.app/api?username=drewIt273&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub status"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrewIt273&theme=tokyonight" alt="GitHub streak" width="70%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewIt273&layout=compact&theme=tokyonight" />
+  <img src="https://readme-stats-chi-red.vercel.app/api/top-langs/?username=drewIt273&layout=compact&theme=tokyonight" />
 
 ---
 
