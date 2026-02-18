@@ -6,7 +6,6 @@
 ---
 
 ### 🚀 About Me
-- 💻 Passionate about **HTML, CSS, JavaScript** 
 - 🧠 Passionate about UI/UX, clean code, and building projects that solve real problems.
 - 🎯 Goal: Build beautiful, functional UIs and master full-stack development.
 - 🌍 Based in Cameroon, aiming to learn from developers worldwide.
@@ -14,14 +13,14 @@
 
 ---
 ### 🚀 Current Focus
-- Learning HTML, CSS, and JavaScript
+- Learning HTML, CSS, JavaScript and C
 - Developing a web app to increase my skills
 - Preparing for A Level Exams (then full coding grind)
 
 ---
 ### 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,figma,github,vscode" />
 </div>
 
 ---
