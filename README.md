@@ -15,6 +15,7 @@
 ### 🚀 Current Focus
 - Learning HTML, CSS, JavaScript and C
 - Developing a web app to increase my skills
+- Building web UI Templates
 - Preparing for A Level Exams (then full coding grind)
 
 ---
