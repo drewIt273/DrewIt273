@@ -9,19 +9,18 @@
 - 🧠 Passionate about UI/UX, clean code, and building projects that solve real problems.
 - 🎯 Goal: Build beautiful, functional UIs and master full-stack development.
 - 🌍 Based in Cameroon, aiming to learn from developers worldwide.
-- 🛠 Future Inovator
 
 ---
 ### 🚀 Current Focus
-- Learning HTML, CSS, JavaScript and C
-- Developing a web app to increase my skills
+- Learning HTML, CSS, JavaScript and Typescript
+- Developing a runtime for web apps
 - Building web UI Templates
 - Preparing for A Level Exams (then full coding grind)
 
 ---
 ### 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,nodejs,electron,figma,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,nodejs,npm,figma,github,vscode" />
 </div>
 
 ---
