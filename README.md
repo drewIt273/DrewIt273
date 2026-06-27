@@ -13,14 +13,13 @@
 ---
 ### 🚀 Current Focus
 - Learning HTML, CSS, JavaScript and Typescript
-- Developing a runtime for web apps
-- Building web UI Templates
+- Developing a web app
 - Preparing for A Level Exams (then full coding grind)
 
 ---
 ### 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,nodejs,npm,figma,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,nodejs,npm,github,vscode" />
 </div>
 
 ---
